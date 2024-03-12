@@ -9,7 +9,7 @@ Projenin temel amacı, eğitmenler ve öğrenciler için sınavların hazırlık
 <li>Mimari: Katmanlı Mimari</li>
 <li>RabbitMQ</li>
 
- Proje sahibi, Ekip liderimiz ve takım arkadaşlarımızla işbirliği içerisinde yaptığımız bu projenin kodlarını paylaşamıyorum. Herhangi bir sorunuz için benimle iletişime geçebilirsiniz.
+ Proje sahibi, Ekip liderimiz ve takım arkadaşlarımla işbirliği içerisinde yaptığımız bu projenin kodlarını paylaşamıyorum. Herhangi bir sorunuz için benimle iletişime geçebilirsiniz.
  <br/>
 https://exam.bilgeadam.com/
 ## 🌐 İletişim: esedasayar@gmail.com
