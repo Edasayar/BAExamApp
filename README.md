@@ -1,4 +1,5 @@
-ExamApp Proje-BilgeAdam
+<h4>ExamApp Proje-BilgeAdam</h4>
+<br/>
 Projenin temel amacı, eğitmenler ve öğrenciler için sınavların hazırlık sürecini yönetmek ve sonuçları takip etmek için bir platform sunmaktır. Sistem, eğitmenlere sınavlar için soruları ve ilgili konuları eklemelerine olanak sağlar. Öğrenciler, sınıf veya bireysel olarak oluşturulan sınav bağlantıları aracılığıyla sınavlara katılabilirler. Sınav öncesi eğitmenlere bildirim gönderilir ve sınav başladığında öğrencilere otomatik olarak bilgilendirme yapılır. Ardından, öğrenciler sınav sonuçlarını ve alt konu bazlı başarı analizini görüntüleyebilirler. Proje, Admin, Eğitmen ve Öğrenci olmak üzere üç farklı kullanıcı tipine sahiptir. Azure altyapısı kullanılarak geliştirilmiş ve Scrum metodolojisiyle yönetilmiştir. Aşağıda örnek görseller mevcuttur.
 <h4>Kullanılan Teknolojiler:</h4>
 <li>Programlama Dili: C#</li>
