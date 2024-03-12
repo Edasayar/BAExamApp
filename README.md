@@ -1,12 +1,12 @@
 ExamApp Proje-BilgeAdam
 Projenin temel amacı, eğitmenler ve öğrenciler için sınavların hazırlık sürecini yönetmek ve sonuçları takip etmek için bir platform sunmaktır. Sistem, eğitmenlere sınavlar için soruları ve ilgili konuları eklemelerine olanak sağlar. Öğrenciler, sınıf veya bireysel olarak oluşturulan sınav bağlantıları aracılığıyla sınavlara katılabilirler. Sınav öncesi eğitmenlere bildirim gönderilir ve sınav başladığında öğrencilere otomatik olarak bilgilendirme yapılır. Ardından, öğrenciler sınav sonuçlarını ve alt konu bazlı başarı analizini görüntüleyebilirler. Proje, Admin, Eğitmen ve Öğrenci olmak üzere üç farklı kullanıcı tipine sahiptir. Azure altyapısı kullanılarak geliştirilmiş ve Scrum metodolojisiyle yönetilmiştir. Aşağıda örnek görseller mevcuttur.
-Kullanılan Teknolojiler:
-<li>Programlama Dili: C#
-Veritabanı: SQL(Bulut Tabanlı)
-Web Framework: ASP.NET MVC
-Kimlik Yönetimi: ASP.NET Identity
-Mimari: Katmanlı Mimari
-RabbitMQ</li>
+<h4>Kullanılan Teknolojiler:</h4>
+<li>Programlama Dili: C#</li>
+<li>Veritabanı: SQL(Bulut Tabanlı)</li>
+<li>Web Framework: ASP.NET MVC</li>
+<li>Kimlik Yönetimi: ASP.NET Identity</li>
+<li>Mimari: Katmanlı Mimari</li>
+<li>RabbitMQ</li>
 
 ![login](https://github.com/Edasayar/BAExamApp/assets/121755056/a2969b00-8ff7-4922-a795-1c270709a7af)
 ![examrule](https://github.com/Edasayar/BAExamApp/assets/121755056/3effd7fc-4d35-4a04-beab-ad42fd717c65)
